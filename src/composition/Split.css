@@ -1,0 +1,6 @@
+.split {
+    flex: 1;
+    padding: 1em;
+  }
+  /* the browser now, we can see the Split 
+  components take 1 flex each.*/
